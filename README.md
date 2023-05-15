@@ -1,3 +1,2 @@
 # leokk
 integrated basic func
-```
