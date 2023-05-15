@@ -1,2 +1,2 @@
 # leokk
-integrated basic log
+integrated basic func

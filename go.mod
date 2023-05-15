@@ -1,4 +1,4 @@
-module leokk
+module github.com/cRexxar/leokk
 
 go 1.18
 

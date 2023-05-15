@@ -2,8 +2,9 @@ package zlog
 
 import (
 	"fmt"
-	"leokk/files"
 	"os"
+
+	"github.com/cRexxar/leokk/files"
 
 	"github.com/rs/zerolog"
 )
